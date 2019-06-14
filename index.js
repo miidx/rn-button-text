@@ -1,3 +1,3 @@
-import CustomComponent from './src/custom-component';
+import TextButton from './src/text-button';
 
-export default CustomComponent;
+export default TextButton;

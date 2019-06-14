@@ -1,24 +1,22 @@
 {
-  "name": "@miidx/rn-custom-component",
+  "name": "@miidx/rn-text-button",
   "version": "0.9.0",
-  "description": "This is template repo for creating custom component",
+  "description": "Text Button",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/miidx/rn-component-template.git"
+    "url": "git+https://github.com/miidx/rn-text-button.git"
   },
   "author": "firstyuyu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/miidx/rn-component-template/issues"
+    "url": "https://github.com/miidx/rn-text-button/issues"
   },
-  "homepage": "https://github.com/miidx/rn-component-template#readme",
-  "dependencies": {
-    
-  },
+  "homepage": "https://github.com/miidx/rn-text-button#readme",
+  "dependencies": {},
   "peerDependencies": {
     "react": "*",
     "react-native": "*",
