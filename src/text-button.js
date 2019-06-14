@@ -18,7 +18,7 @@ const ButtonText = ({
     textDecorationLine: underline && !disabled ? 'underline' : 'none',
     fontWeight: bold ? 'bold' : 'normal',
     fontStyle: italic ? 'italic' : 'normal',
-    color: disabled ? color : disabledColor,
+    color: disabled ? disabledColor : color,
   };
   if (disabled) {
     return (
