@@ -23,8 +23,8 @@
  bold           | Make the text bold                            | boolean  |          | false    
  italic         | Make the text italic                          | boolean  |          | false    
  underline      | Make the text underline                       | boolean  |          | false    
- color          | Change text color                             | string   |          | #2f2f2f  
- disabledColor  | Change text color when disabled               | string   |          | #8C8C8C  
+ color          | Change text color                             | string   |          | `#2f2f2f`  
+ disabledColor  | Change text color when disabled               | string   |          | `#8C8C8C`  
  containerStyle | Style for button container                    | String   |          | {}         
  textStyle      | Style for button text. This takes precedence over `bold`, `italic`, `underline` and `color` props |   String |           | {}
  
